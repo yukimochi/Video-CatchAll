@@ -1,0 +1,10 @@
+version: "2.3"
+services:
+  app:
+    build: .
+    volumes:
+      - ./temp:/app/temp
+      - ./video:/app/video
+    environment:
+      - TEMP_PATH=temp
+      - DEST_PATH=video

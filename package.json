@@ -1,0 +1,13 @@
+{
+  "name": "Video-CatchAll",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/yukimochi/Video-CatchAll",
+  "author": "YUKIMOCHI",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "sanitize-filename": "^1.6.3",
+    "ytdl-core": "^4.5.0"
+  }
+}
