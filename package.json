@@ -1,5 +1,5 @@
 {
-  "name": "Video-CatchAll",
+  "name": "video-catchall",
   "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/yukimochi/Video-CatchAll",
@@ -9,5 +9,8 @@
     "axios": "^0.21.1",
     "sanitize-filename": "^1.6.3",
     "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
   }
 }
